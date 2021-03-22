@@ -1,2 +1,2 @@
-# jazz
-repo for discord bot Jazz
+## jazz
+will put something here soon.
